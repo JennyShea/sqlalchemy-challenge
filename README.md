@@ -1,2 +1,2 @@
 # sqlalchemy-challenge
-Climate analysis and exploration
+Climate analysis and exploration of Hawaii 
